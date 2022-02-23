@@ -7,3 +7,6 @@ def new_func():
 
 
 new_func()
+
+new_var = print("Other string")
+new_var
